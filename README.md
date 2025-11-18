@@ -21,5 +21,5 @@ I’ll continue building more tools to make the game fairer and more enjoyable f
 
 ## Contact
 Got suggestions, ideas, or feedback? Feel free to reach out:  
-- Discord: `massiv4515`  
+- Discord: `massiv4515_`  
 - Email: `massiv4515@gmail.com`  
